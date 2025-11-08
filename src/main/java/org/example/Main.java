@@ -14,7 +14,7 @@ public class Main {
             System.out.println("2. View Monthly Summary");
             System.out.println("3. Load Data from File");
             System.out.println("4. Save Transactions to File");
-            System.out.println("5. Exit");
+            System.out.println(" hrhr Exit");
             System.out.print("Choose an option: ");
 
             String choice = sc.nextLine();
