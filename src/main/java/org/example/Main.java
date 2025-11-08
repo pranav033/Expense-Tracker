@@ -15,7 +15,7 @@ public class Main {
             System.out.println("3. Load Data from File");
             System.out.println("4. Save Transactions to File");
             System.out.println(" hrhr Exit");
-            System.out.print("Choose an option: ");
+            System.out.print("Choose tn option: ");
 
             String choice = sc.nextLine();
             switch (choice) {
